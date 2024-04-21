@@ -7,9 +7,14 @@ Un semplice programma in C++ che restituisce i 5 processi più dispendiosi di me
 ### Installazione:
 
 `$ git clone https://github.com/Samueleex/processkiller`
+
 `$ cd processkiller`
+
 Ora compiliamo il file.
+
 `$ g++ -o process process.cpp`
+
 `$ ./process`
+
 
 ![](https://i.ibb.co/pbk8hhn/image.png)
